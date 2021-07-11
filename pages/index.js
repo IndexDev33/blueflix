@@ -7,7 +7,7 @@ import CreateIcon from "@material-ui/icons/Create";
 
 const FullPageDiv = styled.div`
   background-color: #000;
-  height: 100vh;
+  height: 101vh;
   display: flex;
   flex-direction: column;
   align-items: center;
